@@ -5,6 +5,11 @@
 https://youtu.be/LMagNcngvcU?t=1802
 https://github.com/adrianhajdin/project_modern_ui_ux_gpt3/blob/main/src/App.js
 
+## Resources
+
+[Gradient generator](https://angrytools.com/gradient/)
+[Animations]()
+
 ## Available Scripts
 
 In the project directory, you can run:
