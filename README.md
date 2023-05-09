@@ -2,7 +2,7 @@
 
 ## Youtube Bookmark
 
-https://youtu.be/LMagNcngvcU?t=1802
+https://youtu.be/LMagNcngvcU?t=5113
 https://github.com/adrianhajdin/project_modern_ui_ux_gpt3/blob/main/src/App.js
 
 ## Resources
